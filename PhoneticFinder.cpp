@@ -4,16 +4,10 @@
 
 using namespace std;
 
-bool phonetic::simalar(char x, char y)
- {
-  return true;
+string phonetic::find(string x, string y)
+{
+  string ans="A";
+  return ans;
 }
-string phonetic::is_Same_Word(string text, string word) {
-  
-    return "";
-}
-/*
-int main() {
 
-}
-*/
+
